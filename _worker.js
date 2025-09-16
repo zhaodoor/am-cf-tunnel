@@ -1,17 +1,9 @@
-/**
- * YouTube Channel  : https://youtube.com/@am_clubs
- * Telegram Group   : https://t.me/am_clubs
- * GitHub Repository: https://github.com/amclubs
- * Personal Blog 1  : https://amclubss.com
- * Personal Blog 2  : https://amclubs.blogspot.com
- */
-
 // @ts-ignore
 import { connect } from 'cloudflare:sockets';
 
 // Generate your own UUID using the following command in PowerShell:
 // Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = 'd0298536-d670-4045-bbb1-ddd5ea68683e';
+let userID = 'be44a95d-ee3a-4249-b156-5a315ffedb84';
 let kvUUID;
 
 // Proxy IPs to choose from
